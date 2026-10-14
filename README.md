@@ -212,3 +212,5 @@ B.Tech – Artificial Intelligence & Machine Learning
 
 This project was developed as an AI/ML portfolio project to demonstrate practical implementation of evolutionary optimization techniques using Python.
 
+Intern ID- CITS9069
+
